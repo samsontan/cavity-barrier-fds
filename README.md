@@ -3,8 +3,8 @@
 Simulation inputs, device outputs, and analysis scripts for:
 
 > **A Grid-Resolution Discipline for Cavity-Barrier Fire Simulation: Why the Plume Criterion Fails in Thin Ventilated Façade Cavities**
-> Samson B. H. Tan, Teoh Teik Toe, H. M. Iqbal Mahmud, Khalid A. M. Moinuddin
-> Submitted to *Fire Safety Journal* (manuscript under preparation/review; citation to be updated on acceptance).
+> Samson Tan, Teoh Teik Toe, H. M. Iqbal Mahmud, Paul Joseph, Khalid A. M. Moinuddin
+> Manuscript in preparation; not yet submitted. Target journal not yet fixed (Fire Safety Journal or Fire Technology). Citation to be updated on acceptance.
 
 A non-combustible laboratory-scale ventilated cavity (50 mm gap, 6.2 kW propane
 line fire) is modelled in FDS 6.10.1 at 3, 5, and 10 gap-normal cells across
